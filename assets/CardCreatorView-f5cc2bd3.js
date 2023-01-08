@@ -1,0 +1,1 @@
+import{C as e}from"./Card-98152f2f.js";import{d as o,o as t,b as a}from"./index-e159f305.js";const r={data(){return{}},methods:{},created(){}},m=o({...r,__name:"CardCreatorView",setup(n){return(_,s)=>(t(),a(e,{edition:Boolean}))}});export{m as default};
